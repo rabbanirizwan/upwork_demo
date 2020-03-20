@@ -1,0 +1,14 @@
+.threeP{
+   
+    height:500px;
+    width: 100%;
+}
+.threeA{
+    margin-top: 2rem;
+    margin-bottom: 1rem ;
+    display: flex;
+    justify-content: space-evenly;
+}
+button{
+    width: 60% !important;
+}
