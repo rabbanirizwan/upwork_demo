@@ -1,0 +1,27 @@
+.navP{
+    background-color: blue;
+    height: 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+.navP > p{
+    margin: 0px !important;
+}
+.navA{
+    display: flex;
+}
+.navA > p{
+    margin: 0px !important;
+    padding-left: 1.5rem;
+}
+.one{
+    padding-left: 12px;
+}
+.two{
+    padding-right: 0.5rem;
+}
+.three{
+    padding-left: 0.5rem;
+}
